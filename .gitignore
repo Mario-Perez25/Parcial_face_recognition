@@ -13,7 +13,6 @@ ENV/
 
 # Logs and datasets
 *.log
-dataset/
 models/*
 
 # IDE configs
